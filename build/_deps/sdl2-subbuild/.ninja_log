@@ -1,0 +1,37 @@
+# ninja log v5
+0	16	1700247508049910119	sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-mkdir	8ff9754407dcdeef
+0	16	1700247508049910119	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-subbuild/sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-mkdir	8ff9754407dcdeef
+16	8338	1700247516371738570	sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-download	96a21711d043b11a
+114	159	1700267171318052000	sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-install	e1af9899c2afbf9f
+190	229	1700267171388202000	CMakeFiles/sdl2-populate-complete	6c5705a1d5fe76b6
+49	72	1700267171231205000	sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-patch	255617fbff97ebbb
+1	49	0	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-subbuild/sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-update	6ebe5f4a1843ee35
+49	72	1700267171231205000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-subbuild/sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-patch	255617fbff97ebbb
+72	92	1700267171250634000	sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-configure	f5ee891ba1f362f1
+16	8338	1700247516371738570	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-subbuild/sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-download	96a21711d043b11a
+160	190	1700267171347632000	sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-test	ba392b00b247fa06
+72	92	1700267171250634000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-subbuild/sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-configure	f5ee891ba1f362f1
+1	49	0	sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-update	6ebe5f4a1843ee35
+92	113	1700267171271194000	sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-build	1e4cbe316828f820
+160	190	1700267171347632000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-subbuild/sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-test	ba392b00b247fa06
+114	159	1700267171318052000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-subbuild/sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-install	e1af9899c2afbf9f
+190	229	1700267171388202000	sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-done	6c5705a1d5fe76b6
+190	229	1700267171388202000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-subbuild/CMakeFiles/sdl2-populate-complete	6c5705a1d5fe76b6
+92	113	1700267171271194000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-subbuild/sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-build	1e4cbe316828f820
+190	229	1700267171388202000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-subbuild/sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-done	6c5705a1d5fe76b6
+1	57	0	sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-update	6ebe5f4a1843ee35
+1	57	0	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-subbuild/sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-update	6ebe5f4a1843ee35
+57	75	1700269571983984000	sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-patch	255617fbff97ebbb
+57	75	1700269571983984000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-subbuild/sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-patch	255617fbff97ebbb
+75	92	1700269572000848000	sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-configure	f5ee891ba1f362f1
+75	92	1700269572000848000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-subbuild/sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-configure	f5ee891ba1f362f1
+92	110	1700269572018418000	sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-build	1e4cbe316828f820
+92	110	1700269572018418000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-subbuild/sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-build	1e4cbe316828f820
+110	133	1700269572040272000	sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-install	e1af9899c2afbf9f
+110	133	1700269572040272000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-subbuild/sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-install	e1af9899c2afbf9f
+133	305	1700269572212481000	sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-test	ba392b00b247fa06
+133	305	1700269572212481000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-subbuild/sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-test	ba392b00b247fa06
+306	361	1700269572269873000	CMakeFiles/sdl2-populate-complete	6c5705a1d5fe76b6
+306	361	1700269572269873000	sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-done	6c5705a1d5fe76b6
+306	361	1700269572269873000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-subbuild/CMakeFiles/sdl2-populate-complete	6c5705a1d5fe76b6
+306	361	1700269572269873000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-subbuild/sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-done	6c5705a1d5fe76b6

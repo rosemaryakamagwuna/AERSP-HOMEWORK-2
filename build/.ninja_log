@@ -1,0 +1,553 @@
+# ninja log v5
+19705	20091	1700247606374857884	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_xboxone.c.o	15ed5d6b2698a0f9
+19527	19911	1700247606183999242	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_stadia.c.o	b1c1c7b529b4456d
+20675	22836	1700247609111071331	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/cocoa/SDL_cocoamouse.m.o	6b9d9ee17dff2e1f
+17140	17922	1700247604209288782	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/SDL_blit_1.c.o	7e93e37997476516
+17732	18438	1700247604696459179	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/SDL_fillrect.c.o	a1349b17a9d06b51
+9596	11593	1700247597873694290	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/cocoa/SDL_cocoamouse.m.o	749c558060c59a5c
+22304	24511	1700247610788989202	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/cocoa/SDL_cocoavideo.m.o	dca8dec3dac8668c
+6642	6964	1700247593250291956	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/SDL_rect.c.o	bfa1cce9e825749d
+20136	20389	1700247606680351512	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/timer/unix/SDL_systimer.c.o	c6c0010137a891c3
+335	1483	1700247587759911482	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/SDL.c.o	30fde6a09e93f3e
+20388	22599	1700247608877258860	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/cocoa/SDL_cocoaevents.m.o	cd58dd0f33b86aeb
+18538	18777	1700247605067004424	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/dummy/SDL_nullevents.c.o	3ae98ad2c0d1289b
+20092	21008	1700247607291669060	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/locale/macosx/SDL_syslocale.m.o	1f8b7b1a7bbd5647
+6032	6967	1700247593254552831	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/SDL_blit_auto.c.o	9dbeb7aa1d611598
+20389	22743	1700247609025402758	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/cocoa/SDL_cocoakeyboard.m.o	4152bb2bff110a13
+23817	24170	1700247610457892203	_deps/sdl2-build/CMakeFiles/SDL2_test.dir/src/test/SDL_test_imageFace.c.o	ccc9888fbd2e40f9
+20442	22571	1700247608851656030	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/cocoa/SDL_cocoamessagebox.m.o	2d24a8f55005fbd8
+24064	24466	1700247610751177124	_deps/sdl2-build/CMakeFiles/SDL2_test.dir/src/test/SDL_test_imagePrimitives.c.o	50ecb2fb7bdbf972
+24652	24710	1700247611005583000	_deps/sdl2-build/libSDL2_test.a	b45036520c335970
+218	249	1700247586543179000	_deps/sdl2-build/include/SDL2/SDL_test.h	4ab34fe226858674
+216	253	1700247586545997000	_deps/sdl2-build/include/SDL2/SDL_syswm.h	8d902cd83bd1e130
+19149	19527	1700247605815266788	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_luna.c.o	e1793cfd41c720b5
+23187	23658	1700247609943138684	_deps/sdl2-build/CMakeFiles/SDL2_test.dir/src/test/SDL_test_compare.c.o	1c73824a52ea7519
+218	249	1700247586543179000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_test.h	4ab34fe226858674
+6720	7371	1700247593656858905	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/SDL_shape.c.o	91138bd9111fc7d0
+13118	13353	1700247599644742649	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/events/SDL_dropevents.c.o	c880462b8a81ad1
+6965	8186	1700247594467932053	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/SDL_video.c.o	a5eeffe66f4f822b
+22582	24642	1700247610927672727	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/cocoa/SDL_cocoawindow.m.o	a0de776bef1e9cf4
+19290	19705	1700247605993246557	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_ps5.c.o	5d0e79668840611b
+19962	20599	1700247606883391903	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/joystick/darwin/SDL_iokitjoystick.c.o	aabfb956a88846cc
+7175	7451	1700247593739348936	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/audio/disk/SDL_diskaudio.c.o	4c2ea0af71905a3c
+18829	19182	1700247605469635373	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/offscreen/SDL_offscreenvideo.c.o	78a934a97eb3b43a
+16587	17366	1700247603653744477	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/sensor/SDL_sensor.c.o	98aafb6b1d67f059
+11192	13066	1700247599349219937	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/render/metal/SDL_render_metal.m.o	224a57c0d2aef622
+12375	12622	1700247598909505201	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/atomic/SDL_atomic.c.o	16014c642a4781ee
+20599	22582	1700247608859046404	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/cocoa/SDL_cocoametalview.m.o	a276833be94a58d1
+19562	20157	1700247606445268208	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_switch.c.o	499e7ede25eac60c
+19985	20675	1700247606948192062	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/haptic/darwin/SDL_syshaptic.c.o	55d21887bd52b911
+18781	19148	1700247605433382045	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/offscreen/SDL_offscreenopengles.c.o	e6642b3775abad36
+61	106	1700247586396613000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_guid.h	46e96944401fb37c
+15174	15487	1700247601776485131	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/libm/s_sin.c.o	42fde8d37a318532
+9079	9982	1700247596263925284	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/locale/macosx/SDL_syslocale.m.o	85cb30a15260c4c9
+17366	17854	1700247604142106332	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/SDL_blit_slow.c.o	ff3ea99060067493
+18439	18668	1700247604953800813	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/loadso/dlopen/SDL_sysloadso.c.o	1fe520caa7c8e161
+16845	17152	1700247603436686380	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/stdlib/SDL_string.c.o	559b5952401505c2
+249	286	1700247586578447000	_deps/sdl2-build/include/SDL2/SDL_test_md5.h	bc4ec2ec528063a
+17280	18213	1700247604500643787	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/SDL_blit_auto.c.o	873ef10db780c475
+17018	17779	1700247604065511217	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/SDL_RLEaccel.c.o	7ad3df911747d714
+4253	4531	1700247590821265429	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/render/opengles2/SDL_shaders_gles2.c.o	6c10d0d82b3e3456
+1513	2959	1700247589245634211	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/dynapi/SDL_dynapi.c.o	5264f24de1e03c71
+1336	1512	1700247587799704102	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/audio/SDL_audiodev.c.o	886336f38cd8eee2
+23047	23314	1700247609602524060	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/thread/pthread/SDL_syssem.c.o	bc204df982209930
+23263	23693	1700247609982129804	_deps/sdl2-build/CMakeFiles/SDL2_test.dir/src/test/SDL_test_font.c.o	b3a248a7f0c81251
+3725	4027	1700247590311942827	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/locale/SDL_locale.c.o	4981add22c660118
+18421	18645	1700247604934857357	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/audio/disk/SDL_diskaudio.c.o	13c33ecf9232346a
+18196	18555	1700247604842050036	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/SDL_vulkan_utils.c.o	a60868f23352d66c
+17017	17594	1700247603881006699	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/timer/SDL_timer.c.o	3a0ee203a949c78
+18214	19033	1700247605318766309	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/SDL_yuv.c.o	36e48f9f30d3aa9b
+16833	17097	1700247603382106637	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/stdlib/SDL_qsort.c.o	d285fce43dc71cf6
+24170	24446	1700247610729074377	_deps/sdl2-build/CMakeFiles/SDL2_test.dir/src/test/SDL_test_memory.c.o	940a337acc7c023a
+24384	24652	1700247610943049099	_deps/sdl2-build/CMakeFiles/SDL2_test.dir/src/test/SDL_test_random.c.o	99567e96d0bef10b
+15882	17018	1700247603305092563	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/render/software/SDL_blendline.c.o	89bc2941e506d981
+17967	18829	1700247605082191672	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/SDL_surface.c.o	8a7c0c80c8f45090
+17922	18944	1700247605230508320	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/SDL_stretch.c.o	ff8ed779da3e36fe
+23172	23654	1700247609943212142	_deps/sdl2-build/CMakeFiles/SDL2_test.dir/src/test/SDL_test_assert.c.o	c28db8a0f8f4975
+7634	7982	1700247594270569952	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/offscreen/SDL_offscreenopengles.c.o	1db126f30d5d3a3f
+20027	20442	1700247606730371797	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/power/macosx/SDL_syspower.c.o	15b04dfaf006f1ad
+23659	24063	1700247610349987924	_deps/sdl2-build/CMakeFiles/SDL2_test.dir/src/test/SDL_test_imageBlit.c.o	6032068b76e58635
+23654	24148	1700247610437223330	_deps/sdl2-build/CMakeFiles/SDL2_test.dir/src/test/SDL_test_harness.c.o	571ea7565fcc9054
+16832	17022	1700247603313343978	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/stdlib/SDL_mslibc.c.o	980fec344f2dcd07
+9130	9365	1700247595655885319	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/timer/unix/SDL_systimer.c.o	2d80da3c4acf4b1e
+339	1081	1700247587360011657	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/SDL_hints.c.o	c9217fe9f098ebaa
+19290	19562	1700247605834369285	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_rumble.c.o	d20ae1e3c341d807
+16168	16841	1700247603126169461	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/render/software/SDL_rotate.c.o	cabf69e8f251297b
+16158	16833	1700247603119221670	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/render/software/SDL_render_sw.c.o	b1e3e0957c701a27
+4026	4232	1700247590521265592	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/render/direct3d11/SDL_render_d3d11.c.o	6619fae2081e27df
+16630	16832	1700247603122729961	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/stdlib/SDL_crc32.c.o	f56c8267537075f7
+15671	16653	1700247602935599068	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/render/opengles2/SDL_render_gles2.c.o	faf34dc4759e7044
+7172	7393	1700247593683024818	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/audio/dummy/SDL_dummyaudio.c.o	bdf40c309f52ffd2
+15289	15663	1700247601950744567	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/power/SDL_power.c.o	ffd6384cc3edbef2
+255	293	1700247586584251000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_thread.h	d3faa1a56a3c28af
+22600	24532	1700247610817666199	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/render/metal/SDL_render_metal.m.o	b224d1bbf2424222
+3133	3438	1700247589727397609	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/libm/e_pow.c.o	7f6202996449769f
+1081	1383	1700247587672690410	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/atomic/SDL_atomic.c.o	ed5fd573da96bb48
+15006	15238	1700247601525328913	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/libm/s_copysign.c.o	3eec36f5fd2bd3ea
+2844	3132	1700247589422331481	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/libm/e_atan2.c.o	e32b61c396f14676
+13044	15003	1700247601283347859	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/dynapi/SDL_dynapi.c.o	5522611747b07408
+9366	11088	1700247597368027437	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/cocoa/SDL_cocoamessagebox.m.o	1585d3d6a3e4e908
+15938	16467	1700247602755840632	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/render/software/SDL_blendpoint.c.o	2c4735083c9d172f
+19640	19962	1700247606245600859	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_xbox360.c.o	d637d1e2b4be872a
+15487	15656	1700247601943267068	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/render/direct3d11/SDL_render_d3d11.c.o	4b78c762acee09f0
+19984	22098	1700247608376864382	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/joystick/iphoneos/SDL_mfijoystick.m.o	b9e0fb82d31aca91
+2382	2841	1700247589125331685	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/events/SDL_touch.c.o	c016e2c0f3af4370
+15875	16586	1700247602874426242	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/render/software/SDL_blendfillrect.c.o	889ec0ebd4cbe05d
+22099	24106	1700247610381173920	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/cocoa/SDL_cocoashape.m.o	6d9b90daab5fa6df
+5775	6175	1700247592459037597	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/thread/SDL_thread.c.o	59d655da4a60fa15
+7678	7982	1700247594269285411	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/offscreen/SDL_offscreenwindow.c.o	f23a87b95785005
+15686	16041	1700247602329438144	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/render/opengles2/SDL_shaders_gles2.c.o	c43a394dd45d1b9d
+227	256	1700247586550716000	_deps/sdl2-build/include/SDL2/SDL_test_crc32.h	8708b82e18ca1940
+19323	19640	1700247605925165316	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_shield.c.o	804aa9ff1b2aca9
+18668	18911	1700247605196803991	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/offscreen/SDL_offscreenevents.c.o	4c82c9f24960a275
+15269	15657	1700247601944509901	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/locale/SDL_locale.c.o	fc807b0cc63d758a
+22571	24508	1700247610787325869	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/cocoa/SDL_cocoavulkan.m.o	f811859c0ad49ead
+22836	23063	1700247609352582009	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/thread/pthread/SDL_syscond.c.o	cd21486e84173805
+17779	18538	1700247604818532830	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/SDL_pixels.c.o	e72e67d216413062
+18245	18446	1700247604735722007	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/audio/dummy/SDL_dummyaudio.c.o	48209e3cd3926d40
+23693	24094	1700247610381164754	_deps/sdl2-build/CMakeFiles/SDL2_test.dir/src/test/SDL_test_imageBlitBlend.c.o	f0d80a7b93316e40
+227	261	1700247586555187000	_deps/sdl2-build/include/SDL2/SDL_test_font.h	5d768dfe52dfd019
+246	283	1700247586575276000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_test_images.h	3a9b9852385b6fc4
+14800	15083	1700247601371559807	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/libm/k_cos.c.o	b947d4c5d8cc0a9e
+14724	14939	1700247601228906492	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/libm/e_sqrt.c.o	c3536599edff129
+5972	6720	1700247593004914612	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/SDL_blit_A.c.o	cd557ad6b4a7a9a4
+7756	9377	1700247595660364694	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/misc/macosx/SDL_sysurl.m.o	f4df41e6e73339a7
+9266	10930	1700247597207395790	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/cocoa/SDL_cocoaclipboard.m.o	3f7a16302259c1ac
+24642	24763	1700247611058836000	_deps/sdl2-build/libSDL2d.a	5602104dd03e5383
+13368	14040	1700247600325264189	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/events/SDL_quit.c.o	e9ad3d39613df1b3
+1263	2036	1700247588312559496	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/audio/SDL_audio.c.o	e16cae2f2d4417db
+14554	14582	1700247600829687375	_deps/sdl2-build/libSDL2-2.0d.dylib	217402fdc0143005
+15657	16158	1700247602438063422	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/render/opengl/SDL_shaders_gl.c.o	73eb6ee31c24969c
+18556	18916	1700247605206249490	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/dummy/SDL_nullframebuffer.c.o	cd08039474fbe42e
+9291	11192	1700247597468646716	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/cocoa/SDL_cocoaevents.m.o	d10f2e6d998d8232
+13353	14228	1700247600513157082	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/events/SDL_mouse.c.o	5e6989cc4d2886be
+14040	14556	1700247600844169290	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/file/SDL_rwops.c.o	84cd570fa83775a2
+20157	21141	1700247607411895712	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/filesystem/cocoa/SDL_sysfilesystem.m.o	288abb9f32e19f3e
+14011	14170	1700247600461608547	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/events/imKStoUCS.c.o	657e2745a4d3da8d
+21142	23187	1700247609468722994	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/cocoa/SDL_cocoaopengles.m.o	f94aa857e05460da
+11190	14066	1700247600345801644	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/cocoa/SDL_cocoawindow.m.o	1b36e15b024ab75
+105	129	1700247586423513000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_loadso.h	c6a18dadf561ab2f
+12775	13350	1700247599638526234	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/cpuinfo/SDL_cpuinfo.c.o	75f0d5b25cefaeba
+14170	15005	1700247601287109276	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/hidapi/SDL_hidapi.c.o	42a12680c46510ed
+284	333	1700247586628107000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_video.h	bb6456ba63dfeb95
+3179	3474	1700247589763262688	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/libm/e_rem_pio2.c.o	b077e09db7261321
+15037	15304	1700247601594402695	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/libm/s_cos.c.o	c05740e943a2157a
+64	106	1700247586396101000	_deps/sdl2-build/include/SDL2/SDL_hints.h	d808d75bc87f8843
+17647	17967	1700247604256674901	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/SDL_clipboard.c.o	72b84878a9ad1796
+13350	13628	1700247599873879204	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/events/SDL_keysym_to_scancode.c.o	fb620f5ca1d7fc23
+13067	13324	1700247599596611322	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/events/SDL_clipboardevents.c.o	863d7433e17dd7c5
+12641	13128	1700247599416867220	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/audio/SDL_mixer.c.o	394d66d2b898559d
+17151	17813	1700247604097738296	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/SDL_blit_A.c.o	b66b527432ccb5ab
+13128	14310	1700247600592204280	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/events/SDL_events.c.o	f5b6e9f287d41c2a
+248	281	1700247586572872000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_test_log.h	14649656bd24cc4f
+12313	12610	1700247598897481869	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/SDL_log.c.o	ddcb1eef5d524850
+6967	7287	1700247593576107873	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/SDL_vulkan_utils.c.o	ac419f5ae7521e30
+21009	23146	1700247609425630749	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/cocoa/SDL_cocoaopengl.m.o	8cf37c25b61f8053
+11896	12109	1700247598400161098	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/SDL_error.c.o	716f92ab0d2afa52
+16841	17140	1700247603422853381	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/stdlib/SDL_stdlib.c.o	c5cf8d33e53dc7b0
+5953	6642	1700247592927257288	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/SDL_blit_1.c.o	8d57b1654a25064f
+11805	12018	1700247598308462735	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/sensor/dummy/SDL_dummysensor.c.o	6b7bf23ecbca2cf4
+16467	16631	1700247602921371570	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/render/vitagxm/SDL_render_vita_gxm_memory.c.o	ec4ed65298ea2d55
+22740	23047	1700247609324759679	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/thread/pthread/SDL_systhread.c.o	f4b2b8a2145b743e
+16906	17151	1700247603438337504	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/stdlib/SDL_strtokr.c.o	8468454889a18a40
+11325	11562	1700247597849826876	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/thread/pthread/SDL_sysmutex.c.o	ba17385231bfe811
+8893	10681	1700247596960305822	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/joystick/iphoneos/SDL_mfijoystick.m.o	164ea1163a507159
+13860	14479	1700247600762963009	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/events/SDL_touch.c.o	d0932e03abb9a072
+2362	2529	1700247588820183140	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/events/SDL_scancode_tables.c.o	9a688393518b209a
+17854	18420	1700247604707249844	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/SDL_shape.c.o	3d0588bacb408a09
+15487	15671	1700247601961182982	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/render/direct3d11/SDL_shaders_d3d11.c.o	8f642b11d47c8e17
+15772	15997	1700247602287625233	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/render/psp/SDL_render_psp.c.o	a349677b5081ce1f
+15039	15271	1700247601550881409	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/libm/s_fabs.c.o	9aa8bc711f93950e
+8730	9291	1700247595575743246	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapijoystick.c.o	c792e2b91ad8433d
+5761	5953	1700247592242387958	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/stdlib/SDL_strtokr.c.o	b65b22137268e537
+10183	11882	1700247598163044420	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/cocoa/SDL_cocoaopengles.m.o	370b542a765a52fd
+22967	23172	1700247609463314495	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/thread/pthread/SDL_systls.c.o	f02f09547e1ac91b
+172	218	1700247586512279000	_deps/sdl2-build/include/SDL2/SDL_power.h	6a6de30eaab972b4
+3189	3393	1700247589683054531	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/libm/k_cos.c.o	e20ceda0c5ee78ed
+17152	18145	1700247604431696296	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/SDL_blit_N.c.o	3c0e10e5e371c460
+2558	2844	1700247589131039934	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/file/SDL_rwops.c.o	280b38822f3900c7
+8769	9445	1700247595730274393	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/joystick/darwin/SDL_iokitjoystick.c.o	d9d0e3eea7795289
+7779	9266	1700247595548194208	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/audio/coreaudio/SDL_coreaudio.m.o	15d75ef9dfb5c94a
+17813	18196	1700247604481737123	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/SDL_rect.c.o	1cea917fcddc5b1c
+14575	14800	1700247601088354301	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/libm/e_log.c.o	e73fc372ee31f5c8
+7393	7677	1700247593965919616	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/dummy/SDL_nullframebuffer.c.o	a17f3623a6832350
+13292	14175	1700247600461470213	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/events/SDL_gesture.c.o	47ca98832e9f1c9c
+22743	22967	1700247609256082479	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/thread/pthread/SDL_sysmutex.c.o	36c5b6644d1fb2f7
+14406	14722	1700247601010772811	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/libm/e_atan2.c.o	9a1f58fd7ac1642e
+12018	12265	1700247598551278162	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/SDL_guid.c.o	3a6f54cffb27f43f
+107	139	1700247586430618000	_deps/sdl2-build/include/SDL2/SDL_main.h	a6174cda320a4ff5
+8609	9162	1700247595449676512	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_xboxone.c.o	d16d17714b2c529a
+15384	16622	1700247602902540530	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/render/SDL_render.c.o	b4b40232dd7f5f30
+11088	13118	1700247599400284347	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/cocoa/SDL_cocoavulkan.m.o	f54a870715bd857e
+15109	15463	1700247601738360760	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/libm/s_scalbn.c.o	4bf6f50aec16acec
+5	61	1700247586350505000	_deps/sdl2-build/include/SDL2/SDL_audio.h	b4dcdab34b8c9032
+8446	9130	1700247595416026266	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_wii.c.o	17e9f76fe180d8a3
+1083	1225	1700247587520031000	_deps/sdl2-build/libSDL2maind.a	3138430c155dbbd2
+8417	9079	1700247595364631689	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_switch.c.o	30d8214e37d70210
+4401	4576	1700247590867051090	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/render/psp/SDL_render_psp.c.o	a7c8b7f9dcbfc3c8
+8029	8512	1700247594793518136	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_ps4.c.o	f508af3323db7c9e
+7982	8446	1700247594734859019	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_ps3.c.o	d38c08a4c1e0a2e3
+16526	16713	1700247603003171434	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/render/vitagxm/SDL_render_vita_gxm_tools.c.o	9071dc4c5fcda677
+17594	18238	1700247604524644909	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/SDL_bmp.c.o	7954244364e17f5a
+6518	7172	1700247593453781597	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/SDL_egl.c.o	7ea459afe9302098
+7982	8410	1700247594694965441	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_luna.c.o	2d845b1c0cd9e111
+238	284	1700247586578442000	_deps/sdl2-build/include/SDL2/SDL_test_fuzzer.h	572765cccb24d639
+3794	4050	1700247590329613033	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/power/SDL_power.c.o	4864a446a8c4abc7
+124	157	1700247586450295000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_mouse.h	b0a3313d0ecf5c95
+9365	11325	1700247597605789157	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/cocoa/SDL_cocoakeyboard.m.o	497ccdf3e69327d3
+14720	15036	1700247601308805106	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/libm/e_pow.c.o	671e671b01892dfb
+7660	8061	1700247594347255026	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/offscreen/SDL_offscreenvideo.c.o	13b16f5c672eb2e1
+335	1312	1700247587595517169	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/SDL_dataqueue.c.o	56a295949b665d36
+7451	8029	1700247594313563905	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/dummy/SDL_nullvideo.c.o	b6b0a3882031d9a
+7287	7634	1700247593912882289	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/joystick/virtual/SDL_virtualjoystick.c.o	4f1f8866ae205222
+16713	17017	1700247603304216021	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/stdlib/SDL_malloc.c.o	84742481ebc959b8
+5040	5913	1700247592195786256	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/render/software/SDL_triangle.c.o	f7aaf727b636fa60
+6814	7575	1700247593862140421	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/SDL_surface.c.o	ac77b9473f909dd
+20615	22740	1700247609013980551	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/cocoa/SDL_cocoamodes.m.o	61e4c91425590352
+6575	7175	1700247593461371763	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/SDL_fillrect.c.o	d52063ed9fe10d56
+5993	7060	1700247593345995194	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/SDL_blit_N.c.o	9d748facd885ce8f
+15663	15881	1700247602171194539	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/render/opengles/SDL_render_gles.c.o	a1448d395a26a365
+146	180	1700247586473920000	_deps/sdl2-build/include/SDL2/SDL_opengles2_gl2.h	4810dd99afdf2f39
+7060	7779	1700247594064863562	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/yuv2rgb/yuv_rgb.c.o	190ac79485d7ae35
+1483	2000	1700247588285068249	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/cpuinfo/SDL_cpuinfo.c.o	719571b1cbbe310f
+157	198	1700247586491158000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_opengles2_khrplatform.h	a5d719c9d33b26e
+15003	15384	1700247601663451020	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/libm/s_atan.c.o	91d21ca764cd78d0
+18916	20615	1700247606893791360	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/misc/macosx/SDL_sysurl.m.o	a1059ebc9b400988
+14845	15269	1700247601555857825	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/libm/k_rem_pio2.c.o	d4a1fa476bbb3db
+214	238	1700247586532065000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_surface.h	2b7234b1283be079
+6402	7029	1700247593316585615	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/SDL_bmp.c.o	f3eda1eb20c8017f
+1395	1989	1700247588275764125	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/audio/SDL_mixer.c.o	7d06641eebf35cbf
+8186	8417	1700247594703279731	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_rumble.c.o	10038383e84a91c8
+15745	15938	1700247602228698782	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/render/ps2/SDL_render_ps2.c.o	2d27bae8fc459aa5
+15577	15875	1700247602157772333	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/render/direct3d12/SDL_shaders_d3d12.c.o	798abf6a568b6c1b
+6181	6602	1700247592884431752	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/SDL_blit_slow.c.o	ddf5d6dcb080d0df
+19183	19602	1700247605886869362	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_ps3.c.o	321daecda2142079
+17331	17730	1700247604016719348	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/SDL_blit_copy.c.o	46e60bb02b4ee9ec
+11562	11805	1700247598094655137	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/thread/pthread/SDL_syscond.c.o	7dd39865d6532591
+5915	6492	1700247592772739808	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/SDL_blit_0.c.o	4293ab64d4b95d68
+109	148	1700247586441272000	_deps/sdl2-build/include/SDL2/SDL_messagebox.h	bcea60996b0f9d27
+5840	6402	1700247592689847235	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/timer/SDL_timer.c.o	3dfa24c1539570bf
+5759	6180	1700247592468730638	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/stdlib/SDL_string.c.o	ab603c82d3d86b01
+12266	12645	1700247598932580448	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/SDL_list.c.o	35d02ccb071d8446
+5577	5993	1700247592281959620	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/stdlib/SDL_stdlib.c.o	b07486fa8e714d4d
+5029	5972	1700247592259631039	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/render/software/SDL_render_sw.c.o	68057c6b4d606f9
+5526	5907	1700247592190911090	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/stdlib/SDL_malloc.c.o	463f337bee1c46cc
+5557	5840	1700247592128627181	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/stdlib/SDL_qsort.c.o	c8502295a91fdecb
+13113	13368	1700247599656348648	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/events/SDL_displayevents.c.o	b4dd3aee462cf491
+5363	5759	1700247592048298399	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/stdlib/SDL_iconv.c.o	ff2fc27cf0e24604
+95	132	1700247586424652000	_deps/sdl2-build/include/SDL2/SDL_keyboard.h	5e81fe6fa7cfad3e
+5531	5761	1700247592048530941	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/stdlib/SDL_mslibc.c.o	63527c9f51381f6b
+16460	16630	1700247602918323653	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/render/vitagxm/SDL_render_vita_gxm.c.o	af3c90013602389a
+92	123	1700247586417227000	_deps/sdl2-build/include/SDL2/SDL_joystick.h	faf11f1b26335a9
+4531	5576	1700247591862510256	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/render/software/SDL_blendline.c.o	e9d5f9ccda87e58f
+3759	4005	1700247590292790621	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/misc/SDL_url.c.o	27ce3c566afa1253
+3645	3902	1700247590189311426	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/libm/s_scalbn.c.o	96b4c586971a4f2d
+15541	15771	1700247602060819678	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/render/direct3d12/SDL_render_d3d12.c.o	57696077f62524ff
+11601	11836	1700247598126495466	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/thread/pthread/SDL_syssem.c.o	1be997f6bffcf281
+18645	19290	1700247605576665901	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/dummy/SDL_nullvideo.c.o	f027f7c3f5995223
+59	109	1700247586399817000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_error.h	88288e5c41cd8c68
+5248	5531	1700247591820774178	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/stdlib/SDL_crc16.c.o	b4207f06019df02f
+132	169	1700247586459650000	_deps/sdl2-build/include/SDL2/SDL_name.h	d5dc9d77dbc554e0
+6492	6756	1700247593045045565	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/SDL_clipboard.c.o	b799e2c9fe75d809
+5328	5557	1700247591844137967	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/stdlib/SDL_getenv.c.o	44e1d10b8dcf2c9b
+5295	5525	1700247591811720054	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/stdlib/SDL_crc32.c.o	585c1eec51f4ac15
+4519	5248	1700247591534457589	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/render/software/SDL_blendfillrect.c.o	4db8d6c375b4634c
+16968	17331	1700247603619935981	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/thread/SDL_thread.c.o	34cb660d30ee08d0
+5042	5219	1700247591510344217	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/render/vitagxm/SDL_render_vita_gxm.c.o	c5db4a94135b3dce
+7575	7942	1700247594228040416	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/offscreen/SDL_offscreenframebuffer.c.o	6fa5c5b632fa37c1
+18901	19215	1700247605501265786	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/offscreen/SDL_offscreenwindow.c.o	7a26f2a54eb53a8d
+12423	12641	1700247598930281823	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/atomic/SDL_spinlock.c.o	21dca66b42ae1452
+66	1936	1700260662463636913	CMakeFiles/SDLExample.dir/HW2_Visualizer.cpp.o	81bcc2b4bc57479b
+12543	13292	1700247599572340284	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/audio/SDL_audio.c.o	311722d1cd3a27ce
+23063	23262	1700247609551988650	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/sensor/dummy/SDL_dummysensor.c.o	9b65c090b022abf7
+224	255	1700247586549368000	_deps/sdl2-build/include/SDL2/SDL_test_compare.h	5aa63bfaef3e166b
+23314	23817	1700247610104781747	_deps/sdl2-build/CMakeFiles/SDL2_test.dir/src/test/SDL_test_fuzzer.c.o	55cab02a04535a58
+3960	5140	1700247591424936395	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/render/SDL_render.c.o	13a46e2e62b1b679
+4576	5042	1700247591328663032	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/render/software/SDL_blendpoint.c.o	3b34a87cbec20283
+12591	13860	1700247600146380920	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/audio/SDL_audiocvt.c.o	9753aace43b8e6b
+6602	7259	1700247593529405754	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/SDL_pixels.c.o	4b2678bbd2fae397
+4204	4633	1700247590918452959	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/render/opengl/SDL_shaders_gl.c.o	ad914785b4c12386
+15464	15744	1700247602034451890	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/render/direct3d/SDL_shaders_d3d.c.o	3d95995fa12e591d
+4359	4519	1700247590810455597	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/render/ps2/SDL_render_ps2.c.o	63e3bcd974c41e66
+4231	4401	1700247590691953029	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/render/opengles/SDL_render_gles.c.o	4cb98b8b96e5913b
+5140	5295	1700247591584701833	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/render/vitagxm/SDL_render_vita_gxm_memory.c.o	b01e871691b67b7c
+4145	4358	1700247590644835160	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/render/direct3d12/SDL_shaders_d3d12.c.o	c21805e2c9415380
+195	227	1700247586520893000	_deps/sdl2-build/include/SDL2/SDL_sensor.h	f042e4a4134a0585
+4027	4203	1700247590493956179	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/render/direct3d11/SDL_shaders_d3d11.c.o	3788c08626af881
+3986	4188	1700247590475803056	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/render/direct3d/SDL_render_d3d.c.o	1144c49bf37c283f
+18238	18900	1700247605185150867	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/yuv2rgb/yuv_rgb.c.o	cd4f837c11ecec37
+7029	7921	1700247594207853877	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/SDL_yuv.c.o	33a92faecddbcfab
+12336	12543	1700247598830618419	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/SDL_utils.c.o	bbd6014cf6c7ad6a
+61	106	1700247586396613000	_deps/sdl2-build/include/SDL2/SDL_guid.h	46e96944401fb37c
+336	1077	1700247587361429782	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/SDL_error.c.o	c8bae0dab57989cc
+2717	3382	1700247589659667742	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/hidapi/SDL_hidapi.c.o	74f0a757c690a3f1
+13628	13908	1700247600194354622	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/events/SDL_scancode_tables.c.o	94ec68cccd3342ed
+9445	11298	1700247597572303328	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/cocoa/SDL_cocoamodes.m.o	bfb6d859fa341777
+2793	3978	1700247590265510916	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/joystick/SDL_joystick.c.o	33aa6058b293c48c
+24106	24456	1700247610746095791	_deps/sdl2-build/CMakeFiles/SDL2_test.dir/src/test/SDL_test_imagePrimitivesBlend.c.o	311669612124a018
+3474	3794	1700247590083677439	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/libm/s_cos.c.o	a41691a3f684472a
+15083	15397	1700247601668164269	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/libm/s_floor.c.o	5a214c1ed579a181
+64	106	1700247586396101000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_hints.h	d808d75bc87f8843
+18447	18781	1700247605071544090	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/joystick/virtual/SDL_virtualjoystick.c.o	e045afd3588534c
+256	297	1700247586587290000	_deps/sdl2-build/include/SDL2/SDL_timer.h	5cd0efbf2921985c
+4005	4253	1700247590543067173	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/render/direct3d/SDL_shaders_d3d.c.o	7cff66c864caec39
+59	109	1700247586399817000	_deps/sdl2-build/include/SDL2/SDL_error.h	88288e5c41cd8c68
+3367	3759	1700247590048307443	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/libm/k_rem_pio2.c.o	8caa5534f9ba6af2
+3393	3685	1700247589971582245	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/libm/k_tan.c.o	e9cf0c0a102ff377
+109	148	1700247586441272000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_messagebox.h	bcea60996b0f9d27
+3400	3682	1700247589971036120	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/libm/s_atan.c.o	caa192a1c8a4d7b
+3383	3645	1700247589927856292	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/libm/k_sin.c.o	2dc9f6f6aa2b0337
+3438	3639	1700247589929984667	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/libm/s_copysign.c.o	a0547d59f1152c2d
+14876	15174	1700247601460857754	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/libm/k_sin.c.o	23318af1c470a943
+15385	16168	1700247602456323545	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/render/SDL_yuv_sw.c.o	f20c74f45553e2cb
+1989	2891	1700247589174441679	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/events/SDL_events.c.o	68fe8c783561eae5
+12110	12336	1700247598625716778	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/SDL_hints.c.o	ce0096ae0cbdc975
+3120	3367	1700247589654829035	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/libm/e_log10.c.o	940f3dfa8ecfb6aa
+2	58	1700247586351494000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL.h	b019a9d18b986763
+2910	3189	1700247589477908890	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/libm/e_fmod.c.o	198e8e784dca9060
+19215	19698	1700247605974599476	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_ps4.c.o	d5ed0f1e428f6eaf
+3640	3986	1700247590274509415	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/libm/s_floor.c.o	cd9f30bdcda65b45
+140	186	1700247586478318000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_opengles2.h	5f5432316db64fcf
+2891	3120	1700247589408785816	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/libm/e_exp.c.o	4f926c16a761ff38
+2589	2909	1700247589195458759	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/haptic/SDL_haptic.c.o	110507c2a7de12bf
+1383	2589	1700247588873215883	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/audio/SDL_audiotypecvt.c.o	e6566c574ba971b0
+2299	2558	1700247588844649720	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/events/SDL_quit.c.o	8d8feb927c314aa6
+134	172	1700247586463105000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_opengl.h	becb76b5d7c84254
+24148	24525	1700247610814918449	_deps/sdl2-build/CMakeFiles/SDL2_test.dir/src/test/SDL_test_md5.c.o	2a16a86217b504a7
+61	95	1700247586388091000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_gamecontroller.h	43fc5a300ca315db
+9378	11189	1700247597458798384	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/cocoa/SDL_cocoametalview.m.o	6af5380213634aa5
+11836	12423	1700247598709980476	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/SDL_assert.c.o	3be754f79ae6ffba
+11882	12313	1700247598602843323	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/SDL_dataqueue.c.o	3048a96fd86e8d85
+14066	14553	1700247600829687375	_deps/sdl2-build/libSDL2-2.0d.0.dylib	ca7a7f2004d66dce
+1421	1901	1700247588189844136	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/audio/SDL_wave.c.o	e25f12f1f8b1f8fc
+137	172	1700247586465327000	_deps/sdl2-build/include/SDL2/SDL_opengles.h	2810f41266dadaa5
+1080	1335	1700247587613484042	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/SDL_utils.c.o	e6b64c8069fa77c
+335	1083	1700247587359385157	_deps/sdl2-build/CMakeFiles/SDL2main.dir/src/main/dummy/SDL_dummy_main.c.o	9a9b7d42cd32ed86
+6	61	1700247586353845000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_bits.h	bf7767fa23427e69
+339	1079	1700247587359433116	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/SDL_guid.c.o	fb47ad58deeed054
+222	255	1700247586549359000	_deps/sdl2-build/include/SDL2/SDL_test_common.h	3068b31323beb453
+8413	8932	1700247595212561209	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_steam.c.o	e85d3221175ceb22
+11	59	1700247586352178000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_egl.h	4d14a57de00822de
+6	61	1700247586354679000	_deps/sdl2-build/include/SDL2/SDL_blendmode.h	ce4c48ffd28d61b1
+283	334	1700247586629265000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_version.h	abcd9a8c938d4041
+15997	16459	1700247602738953884	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/render/software/SDL_drawline.c.o	78203ebbd4ccacae
+11593	11820	1700247598107253302	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/thread/pthread/SDL_systls.c.o	a7967ba182d54d96
+12610	12774	1700247599065025639	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/audio/SDL_audiodev.c.o	2aef060b5997624c
+227	261	1700247586555187000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_test_font.h	5d768dfe52dfd019
+165	213	1700247586507621000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_pixels.h	334eecd5b8e0c741
+7942	8413	1700247594696703857	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_gamecube.c.o	792d30c9481352ae
+3978	4699	1700247590985395450	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/render/SDL_yuv_sw.c.o	f9acf087c29db46
+285	333	1700247586628226000	_deps/sdl2-build/include/SDL2/begin_code.h	c541f4de8c030981
+3683	3960	1700247590249098168	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/libm/s_sin.c.o	a7dd943a5fca17d9
+281	333	1700247586628427000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_types.h	e3eef2663b14dea7
+286	333	1700247586627626000	_deps/sdl2-build/include/SDL2/close_code.h	c895302fb243023
+4232	5328	1700247591614322871	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/render/opengles2/SDL_render_gles2.c.o	a1712e619e9357f4
+220	248	1700247586540911000	_deps/sdl2-build/include/SDL2/SDL_test_assert.h	7eee593ef6085f0b
+16631	16845	1700247603134832126	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/stdlib/SDL_getenv.c.o	d4217961075d5d8f
+243	285	1700247586577709000	_deps/sdl2-build/include/SDL2/SDL_test_harness.h	af314e6a744f98cd
+19602	20135	1700247606420967795	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_wii.c.o	b9eca2e407f7e7b8
+13324	14163	1700247600448723548	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/events/SDL_keyboard.c.o	8df03c096b570c5b
+140	186	1700247586478318000	_deps/sdl2-build/include/SDL2/SDL_opengles2.h	5f5432316db64fcf
+14939	15289	1700247601574742156	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/libm/k_tan.c.o	c959b73fd8026b8c
+2438	2793	1700247589080624232	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/events/SDL_windowevents.c.o	8702135fbd7e0f4d
+246	283	1700247586575276000	_deps/sdl2-build/include/SDL2/SDL_test_images.h	3a9b9852385b6fc4
+256	297	1700247586587290000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_timer.h	5cd0efbf2921985c
+3	59	1700247586350207000	_deps/sdl2-build/include/SDL2/SDL_assert.h	7a0899192d2b3185
+284	333	1700247586628107000	_deps/sdl2-build/include/SDL2/SDL_video.h	bb6456ba63dfeb95
+255	293	1700247586585185000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_test_random.h	9c5f035c740a59a2
+248	281	1700247586572872000	_deps/sdl2-build/include/SDL2/SDL_test_log.h	14649656bd24cc4f
+1808	2109	1700247588395340319	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/events/SDL_displayevents.c.o	ddfeca220ec10b9c
+2109	2299	1700247588588800502	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/events/SDL_keysym_to_scancode.c.o	bf589a5e35459f23
+253	285	1700247586578577000	_deps/sdl2-build/include/SDL2/SDL_test_memory.h	5c86dd813856a53a
+6176	6575	1700247592858943630	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/SDL_blit_copy.c.o	a3b4f6676c36d414
+238	284	1700247586578442000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_test_fuzzer.h	572765cccb24d639
+2	58	1700247586351494000	_deps/sdl2-build/include/SDL2/SDL.h	b019a9d18b986763
+4699	5040	1700247591330074698	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/render/software/SDL_drawpoint.c.o	17f93d03153d2a3f
+227	256	1700247586550716000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_test_crc32.h	8708b82e18ca1940
+220	248	1700247586540911000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_test_assert.h	7eee593ef6085f0b
+5908	6814	1700247593101816016	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/SDL_RLEaccel.c.o	7cf63916a1df0197
+64	112	1700247586400774000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_hidapi.h	e7e16790bfc542bc
+19911	20349	1700247606633854851	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapijoystick.c.o	9a868782ff689925
+216	243	1700247586536997000	_deps/sdl2-build/include/SDL2/SDL_system.h	486f70d8f4ba5d5a
+285	334	1700247586628871000	_deps/sdl2-build/include/SDL2/SDL_vulkan.h	d975f6fd11af2b5d
+9163	10183	1700247596466386634	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/filesystem/cocoa/SDL_sysfilesystem.m.o	dd5132cbfc7926af
+214	238	1700247586532065000	_deps/sdl2-build/include/SDL2/SDL_surface.h	2b7234b1283be079
+172	216	1700247586509751000	_deps/sdl2-build/include/SDL2/SDL_quit.h	e21c74d8212aa1eb
+335	1394	1700247587681134909	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/SDL_assert.c.o	dfd871c2f5c67426
+249	286	1700247586578447000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_test_md5.h	bc4ec2ec528063a
+285	334	1700247586628871000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_vulkan.h	d975f6fd11af2b5d
+16653	16968	1700247603253376944	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/stdlib/SDL_iconv.c.o	c954a2f02655bb18
+2841	3179	1700247589468734975	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/joystick/controller_type.c.o	66f4b7ad72790fea
+198	227	1700247586521306000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_shape.h	b6840fd6faf9737d
+14164	14575	1700247600863926996	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/haptic/SDL_haptic.c.o	1baeec99eabaf90a
+2000	2381	1700247588661816827	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/events/SDL_gesture.c.o	73454715dc28bbc7
+62	111	1700247586401396000	_deps/sdl2-build/include/SDL2/SDL_haptic.h	34a07e6ed6d495c7
+216	253	1700247586545997000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_syswm.h	8d902cd83bd1e130
+148	183	1700247586477503000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_opengles2_gl2ext.h	d03e459213c153ab
+18145	19289	1700247605563897861	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/SDL_video.c.o	e773e21d9cc5e67b
+195	227	1700247586520893000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_sensor.h	f042e4a4134a0585
+15397	15686	1700247601975928397	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/render/direct3d/SDL_render_d3d.c.o	d09a9eb6811723d7
+111	146	1700247586438491000	_deps/sdl2-build/include/SDL2/SDL_metal.h	c4ecaacbe816b6e2
+186	224	1700247586519043000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_scancode.h	bfe8717831228192
+186	224	1700247586519043000	_deps/sdl2-build/include/SDL2/SDL_scancode.h	bfe8717831228192
+211	246	1700247586538631000	_deps/sdl2-build/include/SDL2/SDL_stdinc.h	7ac89e1846c25ad6
+177	220	1700247586510774000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_rect.h	39045a0305fd87d1
+17730	18245	1700247604532743908	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/SDL_egl.c.o	f72e1b54701651da
+17097	17732	1700247604016706723	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/SDL_blit_0.c.o	bec72435d9f6a16c
+16041	16460	1700247602747049717	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/render/software/SDL_drawpoint.c.o	178c83d03c669e58
+3522	3725	1700247590010372740	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/libm/s_fabs.c.o	c95226e37bb7861b
+8977	9366	1700247595654391861	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/power/macosx/SDL_syspower.c.o	d1eda6794269ac72
+261	297	1700247586590420000	_deps/sdl2-build/include/SDL2/SDL_touch.h	e73e4e01c4680939
+15305	15487	1700247601771031465	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/render/SDL_d3dmath.c.o	c9eaa407f95df618
+180	216	1700247586509246000	_deps/sdl2-build/include/SDL2/SDL_render.h	b5b42808719d86c5
+157	198	1700247586491158000	_deps/sdl2-build/include/SDL2/SDL_opengles2_khrplatform.h	a5d719c9d33b26e
+19142	19561	1700247605849296784	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_gamecube.c.o	a1cea4412f8188c6
+129	165	1700247586458489000	_deps/sdl2-build/include/SDL2/SDL_mutex.h	f43ffc76a5a91276
+23146	23559	1700247609848580863	_deps/sdl2-build/CMakeFiles/SDL2_test.dir/src/test/SDL_test_crc32.c.o	51367e6c8979ec77
+169	211	1700247586505103000	_deps/sdl2-build/include/SDL2/SDL_platform.h	d3fccbb365552fbe
+224	255	1700247586549368000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_test_compare.h	5aa63bfaef3e166b
+58	92	1700247586385599000	_deps/sdl2-build/include/SDL2/SDL_endian.h	bf7a2347ea1400e2
+4050	4231	1700247590521395800	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/render/direct3d12/SDL_render_d3d12.c.o	4458f6f3315b87f0
+3685	4025	1700247590311316160	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/libm/s_tan.c.o	e26f96205152f06
+4	60	1700247586353573000	_deps/sdl2-build/include/SDL2/SDL_atomic.h	59699df42730ef07
+1939	2163	1700267193361736079	SDLExample	d61263e530908b95
+1901	2273	1700247588559623673	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/events/SDL_dropevents.c.o	805b7f3c3c8c56cd
+16622	16906	1700247603191829952	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/stdlib/SDL_crc16.c.o	a5e55f612f6ea668
+14228	15385	1700247601658437479	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/joystick/SDL_joystick.c.o	2a025fcd6f216fbb
+2529	2717	1700247589007476283	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/events/imKStoUCS.c.o	fe6da212fc85ad37
+112	150	1700247586444260000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_misc.h	c76e14910f1dfc3d
+7719	8572	1700247594854513212	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/file/cocoa/SDL_rwopsbundlesupport.m.o	6072a3416d47a66
+211	246	1700247586538631000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_stdinc.h	7ac89e1846c25ad6
+14558	14845	1700247601134285837	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/libm/e_fmod.c.o	471ffe027127ab67
+17022	17647	1700247603932387609	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/SDL_blit.c.o	bbdb13ae7cef308e
+148	183	1700247586477503000	_deps/sdl2-build/include/SDL2/SDL_opengles2_gl2ext.h	d03e459213c153ab
+1078	1421	1700247587708327197	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/SDL_log.c.o	b9fec2cf755d9e3e
+146	180	1700247586473920000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_opengles2_gl2.h	4810dd99afdf2f39
+8512	8893	1700247595179237088	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_xbox360.c.o	271b49293945bb6b
+7259	7462	1700247593752463351	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/loadso/dlopen/SDL_sysloadso.c.o	59607c47f9e65367
+255	293	1700247586585185000	_deps/sdl2-build/include/SDL2/SDL_test_random.h	9c5f035c740a59a2
+169	211	1700247586505103000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_platform.h	d3fccbb365552fbe
+134	177	1700247586469360000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_opengl_glext.h	59f2bc6e5b5427cd
+61	95	1700247586388091000	_deps/sdl2-build/include/SDL2/SDL_gamecontroller.h	43fc5a300ca315db
+23560	24384	1700247610666047926	_deps/sdl2-build/CMakeFiles/SDL2_test.dir/src/test/SDL_test_common.c.o	7fc4ec38ea3ac94d
+1225	1551	1700247587839820597	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/atomic/SDL_spinlock.c.o	2517894ebe8f5536
+11820	12374	1700247598661507524	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/SDL.c.o	1f06ca384ef2d21a
+8285	8730	1700247595015059109	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_shield.c.o	c8391248f40cdaec
+15656	16526	1700247602794624711	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/render/opengl/SDL_render_gl.c.o	d95563ff7ff73ce9
+134	172	1700247586463105000	_deps/sdl2-build/include/SDL2/SDL_opengl.h	becb76b5d7c84254
+243	285	1700247586577709000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_test_harness.h	af314e6a744f98cd
+4633	5039	1700247591320627450	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/render/software/SDL_drawline.c.o	d8226c383cdfc545
+10681	12590	1700247598869304997	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/cocoa/SDL_cocoashape.m.o	3d94fb01227bf17a
+3	59	1700247586350207000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_assert.h	7a0899192d2b3185
+9982	11896	1700247598169633336	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/cocoa/SDL_cocoaopengl.m.o	64e883a57b3c11d2
+15271	15541	1700247601828219541	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/misc/SDL_url.c.o	c04cfd16f238cd19
+137	172	1700247586465327000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_opengles.h	2810f41266dadaa5
+10931	13112	1700247599393935098	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/cocoa/SDL_cocoavideo.m.o	624d1ac3ad890d3b
+60	100	1700247586393814000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_filesystem.h	9fb0a5450bed4a38
+172	218	1700247586512279000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_power.h	6a6de30eaab972b4
+18944	20388	1700247606669934847	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/audio/coreaudio/SDL_coreaudio.m.o	3b43c9af3e550964
+8	64	1700247586354267000	_deps/sdl2-build/include/SDL2/SDL_copying.h	d395b124b7d37d77
+8932	9596	1700247595873770750	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/haptic/darwin/SDL_syshaptic.c.o	8d195a4b08e65ef9
+3902	4144	1700247590431540978	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/render/SDL_d3dmath.c.o	e5393443cc6c41ac
+101	134	1700247586424938000	_deps/sdl2-build/include/SDL2/SDL_keycode.h	9183ce54db2dd732
+1552	1808	1700247588097005606	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/events/SDL_clipboardevents.c.o	664ac5bd3e1fb8ee
+61	105	1700247586396766000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_gesture.h	28d2f9ce554ca24
+18911	19984	1700247606253783024	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/file/cocoa/SDL_rwopsbundlesupport.m.o	5a10b238f34d18a0
+12645	13044	1700247599320983232	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/audio/SDL_wave.c.o	8780a75ab43c8147
+15238	15576	1700247601863507870	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/libm/s_tan.c.o	62fed16e5c1fda0a
+92	123	1700247586417227000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_joystick.h	faf11f1b26335a9
+11298	11601	1700247597890821746	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/thread/pthread/SDL_systhread.c.o	c6a2d37dbf63c6ac
+3180	3400	1700247589690279697	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/libm/e_sqrt.c.o	8508828b00ad9e10
+112	150	1700247586444260000	_deps/sdl2-build/include/SDL2/SDL_misc.h	c76e14910f1dfc3d
+165	213	1700247586507621000	_deps/sdl2-build/include/SDL2/SDL_pixels.h	334eecd5b8e0c741
+6756	7756	1700247594039961107	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/SDL_stretch.c.o	aab3348959bee0cc
+8061	8609	1700247594896483915	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_ps5.c.o	239c3f583c4a3062
+286	333	1700247586627626000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/close_code.h	c895302fb243023
+13908	14406	1700247600683884144	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/events/SDL_windowevents.c.o	2fccc84e3aa62573
+14310	14620	1700247600909038490	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/joystick/controller_type.c.o	8a08cc086d3fc2ea
+261	297	1700247586590420000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_touch.h	e73e4e01c4680939
+132	169	1700247586459650000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_name.h	d5dc9d77dbc554e0
+14175	15109	1700247601392367846	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/joystick/SDL_gamecontroller.c.o	bcb4ddce202a6d86
+14480	14724	1700247601013905894	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/libm/e_exp.c.o	e5655cd6e23503a4
+216	243	1700247586536997000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_system.h	486f70d8f4ba5d5a
+7	62	1700247586352438000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_clipboard.h	371d831fd4ffaf7d
+7462	7718	1700247594007076111	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/offscreen/SDL_offscreenevents.c.o	1f54186b61bbf68f
+111	146	1700247586438491000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_metal.h	c4ecaacbe816b6e2
+10	64	1700247586352883000	_deps/sdl2-build/include/SDL2/SDL_cpuinfo.h	787728dc96cbad6
+8574	8977	1700247595263361244	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_xbox360w.c.o	aa35ce409157eb68
+8	64	1700247586354267000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_copying.h	d395b124b7d37d77
+16459	17280	1700247603568315655	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/render/software/SDL_triangle.c.o	f759c062eabc18ef
+7921	8285	1700247594572123289	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_combined.c.o	7869117dad80ffe9
+59	105	1700247586399547000	_deps/sdl2-build/include/SDL2/SDL_events.h	553abdd1a683a576
+5219	6032	1700247592319336115	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/sensor/SDL_sensor.c.o	4282b6df8fd4270f
+60	100	1700247586393814000	_deps/sdl2-build/include/SDL2/SDL_filesystem.h	9fb0a5450bed4a38
+198	227	1700247586521306000	_deps/sdl2-build/include/SDL2/SDL_shape.h	b6840fd6faf9737d
+20349	22303	1700247608573830357	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/cocoa/SDL_cocoaclipboard.m.o	17211842d3eb0d4c
+105	134	1700247586428239000	_deps/sdl2-build/include/SDL2/SDL_locale.h	4ab3a52321f9084e
+59	105	1700247586399547000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_events.h	553abdd1a683a576
+281	333	1700247586628427000	_deps/sdl2-build/include/SDL2/SDL_types.h	e3eef2663b14dea7
+101	134	1700247586424938000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_keycode.h	9183ce54db2dd732
+19033	19323	1700247605610255939	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_combined.c.o	e6d12b191c466be0
+107	139	1700247586430618000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_main.h	a6174cda320a4ff5
+58	92	1700247586385599000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_endian.h	bf7a2347ea1400e2
+150	195	1700247586487844000	_deps/sdl2-build/include/SDL2/SDL_opengles2_gl2platform.h	76b96ad079d7fdc9
+105	134	1700247586428239000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_locale.h	4ab3a52321f9084e
+2037	2438	1700247588727022527	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/events/SDL_keyboard.c.o	71cc75b5f89215f
+4188	5029	1700247591313543700	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/render/opengl/SDL_render_gl.c.o	5516b79096584467
+6	61	1700247586354679000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_blendmode.h	ce4c48ffd28d61b1
+95	132	1700247586424652000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_keyboard.h	5e81fe6fa7cfad3e
+19561	20027	1700247606300215310	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_steam.c.o	f17e29e44adce1e9
+7	62	1700247586352438000	_deps/sdl2-build/include/SDL2/SDL_clipboard.h	371d831fd4ffaf7d
+5914	6518	1700247592805411179	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/SDL_blit.c.o	fc89c775a773fc32
+5203	5363	1700247591651904158	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/render/vitagxm/SDL_render_vita_gxm_tools.c.o	aecc4b095ee22be6
+105	129	1700247586423513000	_deps/sdl2-build/include/SDL2/SDL_loadso.h	c6a18dadf561ab2f
+7371	7659	1700247593948543160	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/video/dummy/SDL_nullevents.c.o	50a871c3dcf0b5a2
+106	137	1700247586431853000	_deps/sdl2-build/include/SDL2/SDL_log.h	265ca5ca2dca7bc8
+14722	15039	1700247601325308896	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/libm/e_rem_pio2.c.o	b6496a43c21e4abb
+150	195	1700247586487844000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_opengles2_gl2platform.h	76b96ad079d7fdc9
+24095	24470	1700247610759600164	_deps/sdl2-build/CMakeFiles/SDL2_test.dir/src/test/SDL_test_log.c.o	ffa131b302e99617
+106	137	1700247586431853000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_log.h	265ca5ca2dca7bc8
+222	255	1700247586549359000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_test_common.h	3068b31323beb453
+19698	19985	1700247606264761940	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_xbox360w.c.o	607f0f1f7877a8ea
+2960	3180	1700247589467991600	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/libm/e_log.c.o	7ff28cc261daec63
+18778	19141	1700247605424032879	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/video/offscreen/SDL_offscreenframebuffer.c.o	326dbdc59a1c48d7
+129	165	1700247586458489000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_mutex.h	f43ffc76a5a91276
+253	285	1700247586578577000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_test_memory.h	5c86dd813856a53a
+64	112	1700247586400774000	_deps/sdl2-build/include/SDL2/SDL_hidapi.h	e7e16790bfc542bc
+62	111	1700247586401396000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_haptic.h	34a07e6ed6d495c7
+124	157	1700247586450295000	_deps/sdl2-build/include/SDL2/SDL_mouse.h	b0a3313d0ecf5c95
+8410	8768	1700247595047086396	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_stadia.c.o	31edff6b8be77b08
+0	732	1700269572465711989	build.ninja	20d6bce648a1859f
+2274	2731	1700247589018743657	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/events/SDL_mouse.c.o	13bf06f28cda4845
+283	334	1700247586629265000	_deps/sdl2-build/include/SDL2/SDL_version.h	abcd9a8c938d4041
+5039	5775	1700247592061514231	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/render/software/SDL_rotate.c.o	4d8bd81a531667d2
+11	59	1700247586352178000	_deps/sdl2-build/include/SDL2/SDL_egl.h	4d14a57de00822de
+172	216	1700247586509751000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_quit.h	e21c74d8212aa1eb
+180	216	1700247586509246000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_render.h	b5b42808719d86c5
+183	222	1700247586512883000	_deps/sdl2-build/include/SDL2/SDL_rwops.h	8aae3ba6ccbf548c
+4	60	1700247586353573000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_atomic.h	59699df42730ef07
+134	177	1700247586469360000	_deps/sdl2-build/include/SDL2/SDL_opengl_glext.h	59f2bc6e5b5427cd
+1312	2362	1700247588635593538	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/audio/SDL_audiocvt.c.o	cb15011131773b8a
+255	293	1700247586584251000	_deps/sdl2-build/include/SDL2/SDL_thread.h	d3faa1a56a3c28af
+10	64	1700247586352883000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_cpuinfo.h	787728dc96cbad6
+14620	14875	1700247601150259710	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/libm/e_log10.c.o	b329c055a89a19e2
+5	61	1700247586350505000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_audio.h	b4dcdab34b8c9032
+17	1938	1700267193136577543	CMakeFiles/SDLExample.dir/new.cpp.o	64a72170a36e4cb5
+2732	3521	1700247589806330641	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/joystick/SDL_gamecontroller.c.o	99472922cd3233e8
+183	222	1700247586512883000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/SDL_rwops.h	8aae3ba6ccbf548c
+12622	14011	1700247600290970401	_deps/sdl2-build/CMakeFiles/SDL2-static.dir/src/audio/SDL_audiotypecvt.c.o	fd4bf16e083f859c
+285	333	1700247586628226000	/Users/rosemaryakamagwuna/Desktop/AERSP HOMEWORK 2/build/_deps/sdl2-build/include/SDL2/begin_code.h	c541f4de8c030981
+339	1262	1700247587550204675	_deps/sdl2-build/CMakeFiles/SDL2.dir/src/SDL_list.c.o	378d9b5af4b6cb6d
+177	220	1700247586510774000	_deps/sdl2-build/include/SDL2/SDL_rect.h	39045a0305fd87d1
+61	105	1700247586396766000	_deps/sdl2-build/include/SDL2/SDL_gesture.h	28d2f9ce554ca24
+6	61	1700247586353845000	_deps/sdl2-build/include/SDL2/SDL_bits.h	bf7767fa23427e69
+16	1763	1700269581929327109	CMakeFiles/SDLExample.dir/new.cpp.o	64a72170a36e4cb5
+1763	2025	1700269582189623107	SDLExample	d61263e530908b95
+31	2521	1700269923187436286	CMakeFiles/SDLExample.dir/new.cpp.o	64a72170a36e4cb5
+2522	2705	1700269923378855793	SDLExample	d61263e530908b95
+32	1912	1700269954900891770	CMakeFiles/SDLExample.dir/new.cpp.o	64a72170a36e4cb5
+1912	2078	1700269955071339589	SDLExample	d61263e530908b95
+30	2005	1700270044067769971	CMakeFiles/SDLExample.dir/new.cpp.o	64a72170a36e4cb5
+2006	2222	1700270044278579992	SDLExample	d61263e530908b95
+31	1959	1700270305365247214	CMakeFiles/SDLExample.dir/new.cpp.o	64a72170a36e4cb5
+1960	2145	1700270305546790848	SDLExample	d61263e530908b95
